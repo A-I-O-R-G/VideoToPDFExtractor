@@ -1,0 +1,60 @@
+
+```json
+{
+  "planilha": {
+    "titulo": "Planilha do Projeto - Geração de Arquivos PDF a partir de Vídeos",
+    "descricao": "Esta planilha contém informações detalhadas sobre as etapas do projeto e seu progresso.",
+    "dados": [
+      {
+        "etapa": "Levantamento de Requisitos",
+        "descricao": "Coleta de requisitos necessários junto aos stakeholders.",
+        "status": "Concluído",
+        "responsavel": "Equipe de Análise",
+        "data_inicio": "2024-01-08",
+        "data_fim": "2024-01-12"
+      },
+      {
+        "etapa": "Análise Técnica",
+        "descricao": "Análise das tecnologias a serem utilizadas e definição da arquitetura.",
+        "status": "Concluído",
+        "responsavel": "Gerente de Projeto",
+        "data_inicio": "2024-01-13",
+        "data_fim": "2024-01-16"
+      },
+      {
+        "etapa": "Desenvolvimento do Script",
+        "descricao": "Desenvolvimento do script para extração e organização de dados dos vídeos.",
+        "status": "Em Andamento",
+        "responsavel": "Equipe de Desenvolvimento",
+        "data_inicio": "2024-01-17",
+        "data_fim": "2024-02-06"
+      },
+      {
+        "etapa": "Testes e Validação",
+        "descricao": "Teste do sistema para garantir que a geração dos PDFs atende aos requisitos.",
+        "status": "Pendente",
+        "responsavel": "Equipe de Testes",
+        "data_inicio": "2024-02-07",
+        "data_fim": "2024-02-13"
+      },
+      {
+        "etapa": "Documentação",
+        "descricao": "Criação da documentação do projeto, incluindo manuais e relatórios.",
+        "status": "Pendente",
+        "responsavel": "Equipe de Documentação",
+        "data_inicio": "2024-02-14",
+        "data_fim": "2024-02-16"
+      },
+      {
+        "etapa": "Entrega do Projeto",
+        "descricao": "Apresentação e entrega final do projeto aos stakeholders.",
+        "status": "Pendente",
+        "responsavel": "Gerente de Projeto",
+        "data_inicio": "2024-02-17",
+        "data_fim": "2024-02-17"
+      }
+    ]
+  },
+  "nome_da_planilha": "Planilha do Projeto - Geração de Arquivos PDF a partir de Vídeos"
+}
+```
