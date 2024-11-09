@@ -1,0 +1,64 @@
+
+```json
+{
+  "Roadmap": {
+    "nome_do_Roadmap": "Roadmap do Projeto - Geração de Arquivos PDF a partir de Vídeos",
+    "objetivo": "Desenvolver um script que gera arquivos PDF a partir de vídeos, extraindo informações significativas como imagens, diálogos e legendas, organizando o conteúdo de maneira clara.",
+    "etapas": [
+      {
+        "nome": "Levantamento de Requisitos",
+        "data_inicio": "2024-01-08",
+        "data_fim": "2024-01-12",
+        "responsavel": "Equipe de Análise",
+        "status": "Pendente"
+      },
+      {
+        "nome": "Análise Técnica",
+        "data_inicio": "2024-01-13",
+        "data_fim": "2024-01-16",
+        "responsavel": "Gerente de Projeto",
+        "status": "Pendente"
+      },
+      {
+        "nome": "Desenvolvimento do Script",
+        "data_inicio": "2024-01-17",
+        "data_fim": "2024-02-06",
+        "responsavel": "Equipe de Desenvolvimento",
+        "status": "Pendente"
+      },
+      {
+        "nome": "Testes e Validação",
+        "data_inicio": "2024-02-07",
+        "data_fim": "2024-02-13",
+        "responsavel": "Equipe de Testes",
+        "status": "Pendente"
+      },
+      {
+        "nome": "Documentação",
+        "data_inicio": "2024-02-14",
+        "data_fim": "2024-02-16",
+        "responsavel": "Equipe de Documentação",
+        "status": "Pendente"
+      },
+      {
+        "nome": "Entrega do Projeto",
+        "data_inicio": "2024-02-17",
+        "data_fim": "2024-02-17",
+        "responsavel": "Gerente de Projeto",
+        "status": "Pendente"
+      }
+    ],
+    "risks": [
+      "Dificuldades na extração de informação de vídeos com ruído de fundo ou qualidade de áudio baixa.",
+      "O script pode enfrentar desafios ao identificar as partes mais relevantes em vídeos longos.",
+      "Compatibilidade com diferentes formatos de vídeo e possíveis limitações de hardware."
+    ],
+    "tecnologias": [
+      "Linguagens de programação: Python, JavaScript.",
+      "Bibliotecas: OpenCV, FPDF/PDFKit.",
+      "Formatos de saída: PDF."
+    ],
+    "publico_alvo": "Usuários que desejam resumir visualmente o conteúdo de vídeos, facilitando a documentação e a revisão de informações importantes."
+  }
+}
+```
