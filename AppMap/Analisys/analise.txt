@@ -1,0 +1,40 @@
+
+```json
+{
+    "resumo": "O projeto tem como objetivo desenvolver um script que gera arquivos PDF a partir de vídeos, extraindo informações significativas como imagens, diálogos e legendas, organizando todo o conteúdo de maneira clara e acessível. O público-alvo abrange usuários que desejam resumir visualmente o conteúdo de vídeos para facilitar a documentação e a revisão de informações importantes.",
+    "requisitos_funcionais": [
+        "O script deve processar vídeos em formatos comuns (MP4, AVI, etc.).",
+        "Deve ser capaz de identificar e extrair imagens e textos importantes nos vídeos.",
+        "Os dados extraídos devem ser organizados logicamente em um arquivo PDF.",
+        "O PDF final deve conter uma apresentação clara do conteúdo, facilitando a leitura."
+    ],
+    "requisitos_nao_funcionais": [
+        "O sistema deve ser compatível com sistemas operacionais Windows e Linux.",
+        "A geração do PDF deve ser concluída em no máximo 5 minutos por vídeo.",
+        "A interface do usuário deve ser amigável e intuitiva."
+    ],
+    "dependencias": [
+        "A finalização do levantamento de requisitos é necessária antes de prosseguir para a análise técnica."
+    ],
+    "marcos": [
+        "Marco 1: Conclusão do Levantamento de Requisitos (2024-01-12)",
+        "Marco 2: Conclusão da Análise Técnica (2024-01-16)",
+        "Marco 3: Início dos Testes e Validação (2024-02-07)",
+        "Marco 4: Entrega do Projeto (2024-02-17)"
+    ],
+    "recursos": [
+        "Equipe de Análise",
+        "Gerente de Projeto",
+        "Equipe de Desenvolvimento",
+        "Equipe de Testes",
+        "Equipe de Documentação",
+        "Linguagens de programação: Python, JavaScript.",
+        "Bibliotecas: OpenCV, FPDF/PDFKit."
+    ],
+    "riscos": [
+        "Dificuldades na extração de informação de vídeos com ruído de fundo ou qualidade de áudio baixa.",
+        "O script pode enfrentar desafios ao identificar as partes mais relevantes em vídeos longos.",
+        "Compatibilidade com diferentes formatos de vídeo e possíveis limitações de hardware."
+    ]
+}
+```
