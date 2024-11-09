@@ -1,0 +1,46 @@
+
+```json
+{
+  "doc_Pre_Projeto": {
+    "titulo": "Geração de Arquivos PDF a partir de Vídeos",
+    "descricao": "Este projeto tem como propósito desenvolver um script que gera arquivos PDF a partir de vídeos, extraindo informações significativas como imagens, diálogos e legendas. O script será estruturado para analisar e organizar o conteúdo de maneira clara.",
+    "objetivos": [
+      "Extrair imagens de quadros-chave dos vídeos.",
+      "Capturar diálogos e legendas relevantes.",
+      "Selecionar os trechos mais significativos do vídeo para inclusão no PDF.",
+      "Estruturar o conteúdo extraído em um documento PDF que seja informativo e fácil de ler."
+    ],
+    "requisitos": {
+      "funcionais": [
+        "O script deve processar vídeos em formatos comuns (MP4, AVI, etc.).",
+        "Deve ser capaz de identificar e extrair imagens e textos importantes nos vídeos.",
+        "Os dados extraídos devem ser organizados logicamente em um arquivo PDF.",
+        "O PDF final deve conter uma apresentação clara do conteúdo, facilitando a leitura."
+      ],
+      "não_funcionais": [
+        "O sistema deve ser compatível com sistemas operacionais Windows e Linux.",
+        "A geração do PDF deve ser concluída em no máximo 5 minutos por vídeo.",
+        "A interface do usuário deve ser amigável e intuitiva."
+      ]
+    },
+    "público_alvo": "Usuários que desejam resumir visualmente o conteúdo de vídeos, facilitar a documentação e a revisão de informações importantes.",
+    "tecnologias": [
+      "Linguagens de programação: Python, JavaScript.",
+      "Bibliotecas: OpenCV, FPDF/PDFKit.",
+      "Formatos de saída: PDF."
+    ],
+    "cronograma": "A ser definido pelo Gerente de Projeto após a análise deste documento.",
+    "risks": [
+      "Dificuldades na extração de informação de vídeos com ruído de fundo ou qualidade de áudio baixa.",
+      "O script pode enfrentar desafios ao identificar as partes mais relevantes em vídeos longos.",
+      "Compatibilidade com diferentes formatos de vídeo e possíveis limitações de hardware."
+    ]
+  }
+}
+```
+
+```json
+{
+  "name_doc_Pre_Projeto": "Pre-Projeto - Geração de Arquivos PDF a partir de Vídeos"
+}
+```
